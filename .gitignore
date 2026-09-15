@@ -1,0 +1,10 @@
+# The source data is private and never goes in this repository
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.dump
+*.backup
+data/
+.DS_Store
