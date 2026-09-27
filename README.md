@@ -16,7 +16,9 @@ The weather queries compare reports per day within each weather band. Raw counts
 
 ## Data
 
-The report data comes from a real scooter-sharing company. It is anonymised and is not included in this repository. The queries run against two PostgreSQL tables in the `scooter_ops` schema:
+The report data comes from a real scooter-sharing company. It is anonymised and is not included in this repository.
+
+TODO(Bálint): írásos engedély megerősítése — ha megvan, ide egy mondat: „Published with the permission of the data owner.” The queries run against two PostgreSQL tables in the `scooter_ops` schema:
 
 | Table | Contents |
 |---|---|
