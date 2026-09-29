@@ -7,7 +7,7 @@ SQL analysis of one year of municipal scooter-removal reports from a scooter-sha
 
 ## Findings
 
-- Removals are concentrated in a few districts. District V. has 349 reports over the year, District VI. 157 and District XIII. 133.
+- Removals are concentrated in a few districts. District A has 349 reports over the year, District B 157 and District C 133. District names are anonymised at the data owner's request; the letters are ordered by volume.
 - The weather effect is non-linear. Per day, removals peak in the cold band (0 to 10 C) and on days with very light rain. Sub-zero days and days with significant rain are the quietest.
 
 ## Method
